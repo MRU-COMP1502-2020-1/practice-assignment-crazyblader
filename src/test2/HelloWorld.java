@@ -6,7 +6,7 @@ public class HelloWorld {
 	    System.out.println(isPrime(3));
 	    System.out.println(isPrime(4));
 	    System.out.println(isPrime(10));
-	    System.out.println(isPrime(11));
+	    System.out.println(isPrime(1));
 	    System.out.println(isPrime(12));
 	}
 	
